@@ -1,6 +1,6 @@
 ### Hi there 👋 Qalb E Ali
 #### Design and Developement
-![Design and Developement](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/277656287/original/9d571994feb341818f509155c9b408759bc2d6c6/design-and-develop-flutter-application-for-android-and-ios.jpeg)
+![Design and Developement](https://media-exp1.licdn.com/dms/image/D4D16AQHmYzkBh0pqXA/profile-displaybackgroundimage-shrink_200_800/0/1665767167370?e=1672876800&v=beta&t=BNLeJrt--xpPUYYl-Fl1O_ih9hVA2eiLXwhx7VuIYe4)
 
 - i am Qalb E Ali from pakistan, and i am a Software Engineer/ Mobile App developer, i do mobile Application development using Flutter. i really enjoy learning framworks and languages like Dart,Flutter as well as work in UI/Ux design using figma tools. you can check out my linkedIn at www.linkedin.com/in/qalb-e-ali-878a97186
 
