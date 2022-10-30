@@ -12,9 +12,6 @@
 *  Ui/Ux
 *  State Management
 
-## Examples of work
-<img src="" width="256"/>
-
 - 🔭 I’m currently working on Esols technologies Ltd 
 - 🌱 I’m currently learning Firebase database and APIs Integration 
 
