@@ -1,11 +1,16 @@
-### Hi there 👋 Qalb E Ali
-#### Design and Developement
+
 ![Design and Developement](https://media-exp1.licdn.com/dms/image/D4D16AQHmYzkBh0pqXA/profile-displaybackgroundimage-shrink_200_800/0/1665767167370?e=1672876800&v=beta&t=BNLeJrt--xpPUYYl-Fl1O_ih9hVA2eiLXwhx7VuIYe4)
+
+# Qalb E Ali
 
 - i am Qalb E Ali from pakistan, and i am a Software Engineer/ Mobile App developer, i do mobile Application development using Flutter. i really enjoy learning framworks and languages like Dart,Flutter as well as work in UI/Ux design using figma tools. you can check out my linkedIn at www.linkedin.com/in/qalb-e-ali-878a97186
 
-
-Skills: Flutter / Dart / APIs / State management / Firebase
+## Skills and Experiance
+*  Flutter
+*  Dart
+*  Firebase
+*  Ui/Ux
+*  State Management
 
 - 🔭 I’m currently working on Esols technologies Ltd 
 - 🌱 I’m currently learning Firebase database and APIs Integration 
