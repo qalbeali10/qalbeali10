@@ -10,8 +10,8 @@
 *  Dart
 *  Firebase Database
 *  Cloud Firestore and Real time database
-*  Ui/Ux
-*  State Management
+*  Ui/Ux developement
+*  State Management GetX
 *  APIs Integration
 
 - 🔭 I’m currently working on Esols technologies Ltd 
