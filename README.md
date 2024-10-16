@@ -12,7 +12,10 @@
 *  Cloud Firestore and Real-time database
 *  Ui/Ux development
 *  State Management GetX
-*  APIs Integration
+*  State Management Provider
+*  API Integration
+*  Using Gitlab for work
+*  Figma For Prototype
 
 - 🔭 I’m currently working at Kilo Points FZCO Dubai, UAE 
 - 🌱 I’m currently working  on Firebase database and API Integration
