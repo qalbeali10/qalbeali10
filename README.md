@@ -3,19 +3,19 @@
 
 # Qalbe Ali
 
-- i am Qalb E Ali from pakistan, and i am a Software Engineer/ Mobile App developer, i do mobile Application development using Flutter. i really enjoy learning framworks and languages like Dart,Flutter as well as work in UI/Ux design using figma tools. you can check out my linkedIn at https://www.linkedin.com/in/qalbeali/
+- I’m a Flutter developer with 3 years of experience and a track record of developing successful applications. Proficient in Dart. skilled in both front-end and back-end. I've worked on various projects from start to finish, including planning, designing, coding, testing, and keeping the software up to date. Skilled in Agile methodology, Scrum, and utilizing Jira for streamlined project management. Experienced in diverse industries including news media, restaurant management, etc. you can check out my LinkedIn at https://www.linkedin.com/in/qalbeali/
 
-## Skills and Experiance
+## Skills and Experience
 *  Flutter
 *  Dart
 *  Firebase Database
-*  Cloud Firestore and Real time database
-*  Ui/Ux developement
+*  Cloud Firestore and Real-time database
+*  Ui/Ux development
 *  State Management GetX
 *  APIs Integration
 
-- 🔭 I’m currently working on Esols technologies Ltd 
-- 🌱 I’m currently learning Firebase database and APIs Integration
+- 🔭 I’m currently working at Kilo Points FZCO Dubai, UAE 
+- 🌱 I’m currently working  on Firebase database and API Integration
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/qalbeali10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/qalb-e-ali-878a97186/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qalbeali10)  
