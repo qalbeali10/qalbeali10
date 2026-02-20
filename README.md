@@ -3,7 +3,7 @@
 
 # Qalbe Ali
 
-- I’m a Flutter Developer with over 5 years of experience building scalable cross-platform apps for Android, iOS, and Web. Skilled in Clean Architecture (MVVM, MVC), state management (Bloc, GetX, Provider), REST APIs, Firebase, and Google Services.
+I’m a Flutter Developer with over 5 years of experience building scalable cross-platform apps for Android, iOS, and Web. Skilled in Clean Architecture (MVVM, MVC), state management (Bloc, GetX, Provider), REST APIs, Firebase, and Google Services.
 
 Hands-on experience with advanced Flutter features, including custom animations, complex UI/UX, and custom map integrations (Google Maps APIs). Strong in integrating third-party services, real-time data handling, and building smooth, high-performance applications.
 
