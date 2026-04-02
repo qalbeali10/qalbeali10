@@ -32,7 +32,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 
 ### 🌟 Featured Projects & Proof of Work
 
-#### 🏦 **Kilo Points** (Loyalty Super-App)
+#### 🏦 Loyalty Super-App
 - **Role:** Senior Flutter Developer
 - **Highlights:** Migrated multiple apps into a unified super-app using Clean Architecture.
 - [**View Dribbble Mocks**](YOUR_DRIBBBLE_LINK) | [**Watch Video Demo**](YOUR_VIDEO_LINK)
@@ -42,7 +42,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 - **Highlights:** Built offline-first functionality for federal codes and warrants used by US police.
 - [**View Project**](YOUR_LINK)
 
-#### 🛒 **Paygez** (Influencer E-commerce)
+#### 🛒 **Influencer E-commerce-App
 - **Role:** Architected the storefront and checkout flow with dynamic deep-linking.
 - [**UI Design**](YOUR_DRIBBBLE_LINK)
 
