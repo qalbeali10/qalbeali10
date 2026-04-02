@@ -48,6 +48,22 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 
 ---
 
+---
+
+### 📂 Other Notable Projects (Total 20+ Delivered)
+
+While I have specialized in Fintech and E-commerce, my 5-year journey includes diverse domains:
+
+- **🚗 AOT Solution:** Vehicle management system with maintenance tracking and fuel analytics.
+- **🏠 Dealer to Dealer (D2D):** Real estate inventory and dealer communication platform.
+- **💼 ForAll Sales:** Enterprise sales tracking app with real-time commission alerts.
+- **🏠 Smart Gate:** Home automation system with voice recognition and IoT integration.
+- **🎓 Soft Tech Intern Projects:** Developed various cross-platform UI components and responsive interfaces.
+
+*For internal/enterprise projects that are not public, I can provide **recorded walkthroughs** and **architecture diagrams** upon request.*
+
+---
+
 ### 📊 GitHub Stats
 ![Qalbe's GitHub stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
