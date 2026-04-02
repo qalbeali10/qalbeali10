@@ -1,28 +1,64 @@
+# Hi there! I'm Qalbe Ali 👋 
+### Senior Flutter Developer | 5+ Years Experience | Clean Architecture Expert
 
-![Design and Developement](https://media-exp1.licdn.com/dms/image/D4D16AQHmYzkBh0pqXA/profile-displaybackgroundimage-shrink_200_800/0/1665767167370?e=1672876800&v=beta&t=BNLeJrt--xpPUYYl-Fl1O_ih9hVA2eiLXwhx7VuIYe4)
+Building high-performance, scalable cross-platform applications for Android, iOS, and Web. Based in **Dubai, UAE** 🇦🇪.
 
-# Qalbe Ali
+---
 
-I’m a Flutter Developer with over 5 years of experience building scalable cross-platform apps for Android, iOS, and Web. Skilled in Clean Architecture (MVVM, MVC), state management (Bloc, GetX, Provider), REST APIs, Firebase, and Google Services.
+### 🚀 Professional Summary
+- 📱 **5+ Years** of hands-on experience in Mobile App Development.
+- 🏗️ Expert in **Clean Architecture**, **MVVM**, and **Layered Architecture**.
+- 🛠️ Specialized in **State Management** (Bloc, GetX, Provider) and **Scalable Backend Integration**.
+- 📈 Successfully delivered **20+ projects**, including Fintech, E-commerce, and Enterprise solutions.
+- 🎨 Passionate about **Pixel-Perfect UI** and smooth user experiences.
 
-Hands-on experience with advanced Flutter features, including custom animations, complex UI/UX, and custom map integrations (Google Maps APIs). Strong in integrating third-party services, real-time data handling, and building smooth, high-performance applications.
+---
 
-Focused on delivering maintainable, scalable, and user-centric solutions, including eCommerce, Loyalty, Real Estate, and business applications. Passionate about clean code, performance optimization, and building reliable products that create real business impact. You can check out my LinkedIn at https://www.linkedin.com/in/qalbeali/
-
-## Skills and Experience
-*  Flutter
-*  Dart
-*  Firebase Database
-*  Cloud Firestore and Real-time database
-*  Ui/Ux development
-*  State Management GetX
-*  State Management Provider
-*  API Integration
-*  Using GitLab and GitHub for work
-*  Figma For Prototype
-
-- 🔭 I’m currently working at Kilo Points FZCO, Dubai, UAE  
+### 🛠️ Tech Stack & Tools
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/qalbeali10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/qalb-e-ali-878a97186/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/qalbeali10)  
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Dart, C++, JavaScript, OOP |
+| **Frameworks** | Flutter (Mobile & Web), Flutter Hooks |
+| **Architecture** | Clean Architecture (Data, Domain, Presentation), MVVM, MVC |
+| **State Management** | Bloc/Cubit, GetX, Provider |
+| **Databases** | Firebase (Firestore/RTDB), Hive, Sqflite, SharedPreferences |
+| **Integrations** | REST APIs (Dio/Http), Google Maps, Firebase Auth, JWT, Payment Gateways |
+| **Tools** | Git, GitHub/GitLab, Jira, Postman, Figma, Adobe XD |
+| **Security** | App Integrity, Biometric Auth, Data Encryption |
+
+---
+
+### 🌟 Featured Projects & Proof of Work
+
+#### 🏦 **Kilo Points** (Loyalty Super-App)
+- **Role:** Senior Flutter Developer
+- **Highlights:** Migrated multiple apps into a unified super-app using Clean Architecture.
+- [**View Dribbble Mocks**](YOUR_DRIBBBLE_LINK) | [**Watch Video Demo**](YOUR_VIDEO_LINK)
+
+#### 👮 **Pocket Brainbook** (US Law Enforcement App)
+- **Role:** Lead Mobile Developer
+- **Highlights:** Built offline-first functionality for federal codes and warrants used by US police.
+- [**View Project**](YOUR_LINK)
+
+#### 🛒 **Paygez** (Influencer E-commerce)
+- **Role:** Architected the storefront and checkout flow with dynamic deep-linking.
+- [**UI Design**](YOUR_DRIBBBLE_LINK)
+
+---
+
+### 📊 GitHub Stats
+![Qalbe's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Dribbble](https://shields.io)](YOUR_DRIBBBLE_LINK)
+[![Email](https://shields.io)](mailto:qalbeali10@gmail.com)
+
+---
+*"Clean code is not written, it is evolved."*
 
