@@ -9,7 +9,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 - 📱 **5+ Years** of hands-on experience in Mobile App Development.
 - 🏗️ Expert in **Clean Architecture**, **MVVM**, and **Layered Architecture**.
 - 🛠️ Specialized in **State Management** (Bloc, GetX, Provider) and **Scalable Backend Integration**.
-- 📈 Successfully delivered **20+ projects**, including Fintech, E-commerce, and Enterprise solutions.
+- 📈 Successfully delivered **15+ projects**, including Fintech, E-commerce, and Enterprise solutions.
 - 🎨 Passionate about **Pixel-Perfect UI** and smooth user experiences.
 
 ---
