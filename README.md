@@ -50,7 +50,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 
 ---
 
-### 📂 Other Notable Projects (Total 20+ Delivered)
+### 📂 Other Notable Projects (Total 15+ Delivered)
 
 While I have specialized in Fintech and E-commerce, my 5-year journey includes diverse domains:
 
