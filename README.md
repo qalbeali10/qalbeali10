@@ -72,7 +72,7 @@ While I have specialized in Fintech and E-commerce, my 5-year journey includes d
 
 ### 📫 Connect with me:
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Dribbble](https://shields.io)](YOUR_DRIBBBLE_LINK)
+[![Dribbble](https://shields.io)]([YOUR_DRIBBBLE_LINK](https://dribbble.com/qalbeali10))
 [![Email](https://shields.io)](mailto:qalbeali10@gmail.com)
 
 ---
