@@ -73,7 +73,7 @@ While I have specialized in Fintech and E-commerce, my 5-year journey includes d
 ### 📫 Connect with me:
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/qalbeali)
 
 [![Dribbble](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&style=for-the-badge)](https://dribbble.com/qalbeali10)
 
