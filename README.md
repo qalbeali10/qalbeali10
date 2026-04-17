@@ -71,9 +71,13 @@ While I have specialized in Fintech and E-commerce, my 5-year journey includes d
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Dribbble](https://shields.io)](https://dribbble.com/qalbeali10)
-[![Email](https://shields.io)](mailto:qalbeali10@gmail.com)
+### 📫 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/YOUR_USERNAME)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&style=for-the-badge)](https://dribbble.com/qalbeali10)
+
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:qalbeali10@gmail.com)
 
 ---
 *"Clean code is not written, it is evolved."*
