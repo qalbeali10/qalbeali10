@@ -1,5 +1,5 @@
 # Hi there! I'm Qalbe Ali 👋 
-### Senior Flutter Developer | 5+ Years Experience | Clean Architecture Expert
+### Senior Flutter Developer | 5+ Years Experience | Clean Architecture Expert | Provider | GetX | Bloc
 
 Building high-performance, scalable cross-platform applications for Android, iOS, and Web. Based in **Dubai, UAE** 🇦🇪.
 
@@ -9,7 +9,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 - 📱 **5+ Years** of hands-on experience in Mobile App Development.
 - 🏗️ Expert in **Clean Architecture**, **MVVM**, and **Layered Architecture**.
 - 🛠️ Specialized in **State Management** (Bloc, GetX, Provider) and **Scalable Backend Integration**.
-- 📈 Successfully delivered **15+ projects**, including Fintech, E-commerce, and Enterprise solutions.
+- 📈 Successfully delivered **13+ projects**, including Fintech, E-commerce, real estate, and Enterprise solutions.
 - 🎨 Passionate about **Pixel-Perfect UI** and smooth user experiences.
 
 ---
@@ -19,8 +19,8 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Dart, C++, JavaScript, OOP |
-| **Frameworks** | Flutter (Mobile & Web), Flutter Hooks |
+| **Languages** | Dart, C++, JavaScript, OOP, Kotlin, Swift |
+| **Frameworks** | Flutter (Mobile & Web) |
 | **Architecture** | Clean Architecture (Data, Domain, Presentation), MVVM, MVC |
 | **State Management** | Bloc/Cubit, GetX, Provider |
 | **Databases** | Firebase (Firestore/RTDB), Hive, Sqflite, SharedPreferences |
@@ -50,7 +50,7 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 
 ---
 
-### 📂 Other Notable Projects (Total 15+ Delivered)
+### 📂 Other Notable Projects (Total 13+ Delivered)
 
 While I have specialized in Fintech and E-commerce, my 5-year journey includes diverse domains:
 
