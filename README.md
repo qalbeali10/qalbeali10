@@ -1,7 +1,6 @@
-# Hi there! I'm Qalbe Ali 👋 
-### Senior Flutter Developer | 5+ Years Experience | Clean Architecture Expert | Provider | GetX | Bloc
-
-Building high-performance, scalable cross-platform applications for Android, iOS, and Web. Based in **Dubai, UAE** 🇦🇪.
+# Hi there! I'm Qalbe Ali 👋
+### Senior Flutter Developer | 5+ Years Experience | Clean Architecture Expert
+**Based in Dubai, UAE** 🇦🇪
 
 ---
 
@@ -9,74 +8,61 @@ Building high-performance, scalable cross-platform applications for Android, iOS
 - 📱 **5+ Years** of hands-on experience in Mobile App Development.
 - 🏗️ Expert in **Clean Architecture**, **MVVM**, and **Layered Architecture**.
 - 🛠️ Specialized in **State Management** (Bloc, GetX, Provider) and **Scalable Backend Integration**.
-- 📈 Successfully delivered **13+ projects**, including Fintech, E-commerce, real estate, and Enterprise solutions.
+- 📈 Successfully delivered **13+ projects**, including Fintech, E-commerce, Real Estate, and Enterprise solutions.
 - 🎨 Passionate about **Pixel-Perfect UI** and smooth user experiences.
+
+> 💡 **Note:** Most of my professional work is hosted on private **GitLab** instances. I can provide architecture walkthroughs and demos upon request.
+
+---
+
+### 📊 GitHub Activity & Achievements
+<!-- Ye niche wale links aapke GitLab sync ke baad automatically update honge -->
+<p align="left">
+  <img src="https://vercel.app" alt="Qalbe Stats" height="150" />
+  <img src="https://vercel.app" alt="Top Langs" height="150" />
+</p>
+
+<!-- GitHub Trophies: Ye aapki progress ko visually dikhayengi -->
+<p align="center">
+  <img src="https://vercel.app" alt="trophies" />
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-
-| Category | Skills |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | Dart, C++, JavaScript, OOP, Kotlin, Swift |
-| **Frameworks** | Flutter (Mobile & Web) |
-| **Architecture** | Clean Architecture (Data, Domain, Presentation), MVVM, MVC |
-| **State Management** | Bloc/Cubit, GetX, Provider |
-| **Databases** | Firebase (Firestore/RTDB), Hive, Sqflite, SharedPreferences |
-| **Integrations** | REST APIs (Dio/Http), Google Maps, Firebase Auth, JWT, Payment Gateways |
-| **Tools** | Git, GitHub/GitLab, Jira, Postman, Figma, Adobe XD |
-| **Security** | App Integrity, Biometric Auth, Data Encryption |
+| **Languages** | ![Dart](https://shields.io) ![C++](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io) |
+| **Frameworks** | ![Flutter](https://shields.io) |
+| **State Management** | `Bloc/Cubit` `GetX` `Provider` |
+| **Backend/DB** | ![Firebase](https://shields.io) `Hive` `Sqflite` `REST APIs (Dio)` |
+| **Tools** | ![Git](https://shields.io) ![GitLab](https://shields.io) ![Jira](https://shields.io) ![Postman](https://shields.io) |
 
 ---
 
-### 🌟 Featured Projects & Proof of Work
-
+### 🌟 Featured Projects
 #### 🏦 Loyalty Super-App
 - **Role:** Senior Flutter Developer
-- **Highlights:** Migrated multiple apps into a unified super-app using Clean Architecture.
-- [**View Dribbble Mocks**](YOUR_DRIBBBLE_LINK) | [**Watch Video Demo**](YOUR_VIDEO_LINK)
+- **Highlights:** Unified multiple legacy apps into a single Super-App using Clean Architecture.
+<!-- [View Dribbble Mocks](YOUR_LINK) | [Watch Video](YOUR_LINK) -->
 
-#### 👮 **Pocket Brainbook** (US Law Enforcement App)
+#### 🛡️ Pocket Brainbook (US Law Enforcement)
 - **Role:** Lead Mobile Developer
-- **Highlights:** Built offline-first functionality for federal codes and warrants used by US police.
-- [**View Project**](YOUR_LINK)
+- **Highlights:** Offline-first functionality for federal codes and warrants used by US police.
+<!-- [View Project](YOUR_LINK) -->
 
-#### 🛒 **Influencer E-commerce-App
-- **Role:** Architected the storefront and checkout flow with dynamic deep-linking.
-- [**UI Design**](YOUR_DRIBBBLE_LINK)
-
----
-
----
-
-### 📂 Other Notable Projects (Total 13+ Delivered)
-
-While I have specialized in Fintech and E-commerce, my 5-year journey includes diverse domains:
-
-- **🚗 AOT Solution:** Vehicle management system with maintenance tracking and fuel analytics.
-- **🏠 Dealer to Dealer (D2D):** Real estate inventory and dealer communication platform.
-- **💼 ForAll Sales:** Enterprise sales tracking app with real-time commission alerts.
-- **🏠 Smart Gate:** Home automation system with voice recognition and IoT integration.
-- **🎓 Soft Tech Intern Projects:** Developed various cross-platform UI components and responsive interfaces.
-
-*For internal/enterprise projects that are not public, I can provide **recorded walkthroughs** and **architecture diagrams** upon request.*
-
----
-
-### 📊 GitHub Stats
-![Qalbe's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+#### 🛒 Influencer E-commerce App
+- **Role:** Lead Architect
+- **Highlights:** Dynamic deep-linking and high-conversion checkout flow.
+<!-- [UI Design](YOUR_LINK) -->
 
 ---
 
 ### 📫 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/qalbeali)
-
-[![Dribbble](https://img.shields.io/badge/Dribbble-pink?logo=dribbble&style=for-the-badge)](https://dribbble.com/qalbeali10)
-
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:qalbeali10@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Dribbble](https://shields.io)](https://dribbble.com)
+[![Email](https://shields.io)](mailto:qalbeali10@gmail.com)
 
 ---
 *"Clean code is not written, it is evolved."*
