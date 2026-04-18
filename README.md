@@ -100,7 +100,7 @@ Specialized in **Clean Architecture**, maintainable codebases, and production-re
 ## 📫 Contact
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://www.linkedin.com/in/qalbeali/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin"/>
 </a>
 <a href="https://dribbble.com/YOUR_USERNAME">
