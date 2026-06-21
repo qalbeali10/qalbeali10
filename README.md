@@ -74,7 +74,7 @@ Specialized in **Clean Architecture**, maintainable codebases, and production-re
 
 ---
 
-### 🛡️ Pocket Brainbook (US Law Enforcement)
+### 🛡️ Pocket Brainbook ( US Law Enforcement )
 **Lead Mobile Developer**
 - Built an offline-first mobile solution for critical field usage  
 - Optimized for low-connectivity environments  
