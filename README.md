@@ -51,15 +51,62 @@ Specialized in **Clean Architecture**, maintainable codebases, and production-re
 
 ---
 
+---
+
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qalbeali10&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qalbeali10&theme=default&hide_border=true" height="150"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qalbeali10&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qalbeali10&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qalbeali10&theme=minimal&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=qalbeali10&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qalbeali10&theme=github-compact&hide_border=true&area=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qalbeali10&theme=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qalbeali10&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qalbeali10&theme=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qalbeali10&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qalbeali10&theme=github&utcOffset=5"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=qalbeali10&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/qalbeali10/qalbeali10/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
