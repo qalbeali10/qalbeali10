@@ -130,7 +130,7 @@ Specialized in **Clean Architecture**, maintainable codebases, and production-re
 ---
 
 ### 🛒 Influencer E-commerce Platform
-**Mobile Architect**
+**Flutter Developer**
 - Designed scalable architecture with deep-linking and complex checkout  
 - Integrated secure payments  
 - **Tech:** GetX, REST APIs, Stripe  
